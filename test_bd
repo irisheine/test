@@ -728,7 +728,9 @@
 <Identifier authority="GDI-NW">https://registry.gdi-de.org/id/de.nw/a6d963e8-214f-47bd-962c-ff927b3c88f7</Identifier>
 <MetadataURL type="ISO19115:2003">
 <Format>application/xml</Format>
+<!--
 <OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&elementSetName=full&id=ef9d0151-7746-44d6-9930-36482ea550cd"/>
+-->
 </MetadataURL>
 <Style>
 <Name>default</Name>
