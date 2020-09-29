@@ -204,7 +204,7 @@
 <BoundingBox CRS="EPSG:31467" minx="5576169.217465" miny="3276883.146974" maxx="5826498.158619" maxy="3532870.348425"/>
 <BoundingBox CRS="EPSG:32632" minx="276945.192738" miny="5574510.099111" maxx="532861.207574" maxy="5824767.543667"/>
 <Layer queryable="1">
-<Name>1</Name>
+<Name>PS.ProtectedSite.RAM</Name>
 <Title>
 <![CDATA[ RAMSAR (RAM) ]]>
 </Title>
@@ -293,7 +293,7 @@
 </Style>
 </Layer>
 <Layer queryable="1">
-<Name>2</Name>
+<Name>PS.ProtectedSite.NWZ</Name>
 <Title>
 <![CDATA[ Naturwaldzellen (NWZ) ]]>
 </Title>
@@ -382,7 +382,7 @@
 </Style>
 </Layer>
 <Layer queryable="1">
-<Name>3</Name>
+<Name>PS.ProtectedSite.NTP</Name>
 <Title>
 <![CDATA[ Naturparke (NTP) ]]>
 </Title>
@@ -471,7 +471,7 @@
 </Style>
 </Layer>
 <Layer queryable="1">
-<Name>4</Name>
+<Name>PS.ProtectedSite.NP</Name>
 <Title>
 <![CDATA[ Nationalpark (NP) ]]>
 </Title>
@@ -560,7 +560,7 @@
 </Style>
 </Layer>
 <Layer queryable="1">
-<Name>5</Name>
+<Name>PS.ProtectedSite.NSG</Name>
 <Title>
 <![CDATA[ Naturschutzgebiete (NSG) ]]>
 </Title>
@@ -649,7 +649,7 @@
 </Style>
 </Layer>
 <Layer queryable="1">
-<Name>6</Name>
+<Name>PS.ProtectedSite.LSG</Name>
 <Title>
 <![CDATA[ Landschaftsschutzgebiete (LSG) ]]>
 </Title>
