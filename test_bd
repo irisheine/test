@@ -70,7 +70,7 @@
 <DCPType>
 <HTTP>
 <Get>
-<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://raw.githubusercontent.com/irisheine/test/master/test_bd"/>
+<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://raw.githubusercontent.com/doemming/test/master/test_bd"/>
 </Get>
 </HTTP>
 </DCPType>
@@ -118,7 +118,7 @@
 </Exception>
 <inspire_vs:ExtendedCapabilities>
 <inspire_common:MetadataUrl>
-<inspire_common:URL>https://apps.geoportal.nrw.de/soapServices/CSWStartup?Service=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&elementSetName=full&id=1E370B70-B07A-438C-AD6E-7834B20081D3 </inspire_common:URL>
+<inspire_common:URL>https://apps.geoportal.nrw.de/soapServices/CSWStartup?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=1E370B70-B07A-438C-AD6E-7834B20081D3 </inspire_common:URL>
 <inspire_common:MediaType>application/vnd.iso.19139+xml</inspire_common:MediaType>
 </inspire_common:MetadataUrl>
 <inspire_common:SupportedLanguages>
@@ -135,9 +135,7 @@
 </inspire_vs:ExtendedCapabilities>
 <Layer queryable="1">
 <Name>PS.ProtectedSite</Name>
-<Title>
-<![CDATA[ Schutzgebiete ]]>
-</Title>
+<Title>Schutzgebiete</Title>
 <Abstract>
 <![CDATA[ Schutzgebiete ]]>
 </Abstract>
@@ -283,7 +281,7 @@
 <Identifier authority="GDI-NW">https://registry.gdi-de.org/id/de.nw/e1cce8e3-7883-48e3-93bc-cf23d4c7cda5</Identifier>
 <MetadataURL type="ISO19115:2003">
 <Format>application/xml</Format>
-<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&elementSetName=full&id=DC4501B4-4E9B-4C7E-A961-4DBC429C202B"/>
+<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=DC4501B4-4E9B-4C7E-A961-4DBC429C202B"/>
 </MetadataURL>
 <Style>
 <Name>default</Name>
@@ -372,7 +370,7 @@
 <Identifier authority="GDI-NW">https://registry.gdi-de.org/id/de.nw/f78039f3-5604-4108-a4bb-7f0c5c5850c3</Identifier>
 <MetadataURL type="ISO19115:2003">
 <Format>application/xml</Format>
-<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&elementSetName=full&id=6D85FDF6-4676-4A93-9D4D-6350E5C56065"/>
+<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=6D85FDF6-4676-4A93-9D4D-6350E5C56065"/>
 </MetadataURL>
 <Style>
 <Name>default</Name>
@@ -461,7 +459,7 @@
 <Identifier authority="GDI-NW">https://registry.gdi-de.org/id/de.nw/d88851f3-eec7-4b69-b542-bf42c47a954e</Identifier>
 <MetadataURL type="ISO19115:2003">
 <Format>application/xml</Format>
-<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&elementSetName=full&id=3B2639B1-4FBF-4851-9BD7-F93F50056F17"/>
+<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=3B2639B1-4FBF-4851-9BD7-F93F50056F17"/>
 </MetadataURL>
 <Style>
 <Name>default</Name>
@@ -550,7 +548,7 @@
 <Identifier authority="GDI-NW">https://registry.gdi-de.org/id/de.nw/176fd0f5-16bf-4db8-be8f-f6b986854647</Identifier>
 <MetadataURL type="ISO19115:2003">
 <Format>application/xml</Format>
-<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&elementSetName=full&id=966C28E4-A098-43C3-9228-6F875805DB3A"/>
+<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=966C28E4-A098-43C3-9228-6F875805DB3A"/>
 </MetadataURL>
 <Style>
 <Name>default</Name>
@@ -639,7 +637,7 @@
 <Identifier authority="GDI-NW">https://registry.gdi-de.org/id/de.nw/1fa33a6a-87dc-4ecc-9aea-c5d9e0e974c1</Identifier>
 <MetadataURL type="ISO19115:2003">
 <Format>application/xml</Format>
-<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&elementSetName=full&id=CCBFB8E5-541D-438E-9F6C-466F4D4646A2"/>
+<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=CCBFB8E5-541D-438E-9F6C-466F4D4646A2"/>
 </MetadataURL>
 <Style>
 <Name>default</Name>
@@ -728,7 +726,7 @@
 <Identifier authority="GDI-NW">https://registry.gdi-de.org/id/de.nw/a6d963e8-214f-47bd-962c-ff927b3c88f7</Identifier>
 <MetadataURL type="ISO19115:2003">
 <Format>application/xml</Format>
-<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&elementSetName=full&id=ef9d0151-7746-44d6-9930-36482ea550cd"/>
+<OnlineResource xlink:type="simple" xlink:href="https://apps.geoportal.nrw.de/soapServices/CSWStartup?SERVICE=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=ef9d0151-7746-44d6-9930-36482ea550cd"/>
 </MetadataURL>
 <Style>
 <Name>default</Name>
